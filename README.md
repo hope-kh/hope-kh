@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=082032&height=300&section=header&text=Kidsnote&fontSize=90&fontColor=fff&rotate=20&fontAlign=58&fontAlignY=33&desc=Hope&descSize=25&&descAlign=87&descAlignY=38)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hope-kh)](https://github.com/hope-kh/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/hope-kh/github-readme-stats"><img src="https://camo.githubusercontent.com/90d7957141fcc195dc8ffb1d8ea69bc0e871d9fa6f13a522d1b61c9d363a78fe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d686f70652d6b68" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=hope-kh"></a>
+</p>
 
 <h3 align="center">Stack 💻</h3>
 <p align="center">
