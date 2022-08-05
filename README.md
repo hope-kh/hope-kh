@@ -1,7 +1,1 @@
-<header style="background-color:#082032 !important">
-  <h1 style="border:0 !important;padding:50px !important;">
-    <a href="https://kiheum.netlify.app" style="display:flex !important;justify-content:center !important;text-decoration:none !important;outline:none !important" target="_blank">
-      <img src="https://kiheum.netlify.app/assets/logo.png" alt="KH Logo" />
-    </a>
-  </h1>
-</header>
+![header](https://capsule-render.vercel.app/api?type=slice&color=082032&height=300&section=header&text=Kidsnote&fontSize=90&fontColor=fff&rotate=18&fontAlign=58&fontAlignY=28&desc=Hope&descSize=25&&descAlign=87&descAlignY=34)
